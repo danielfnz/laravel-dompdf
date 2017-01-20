@@ -13,9 +13,9 @@
         "php": ">=5.5.9",
         "illuminate/support": "5.1.x|5.2.x|5.3.x"
     },
-     "require-dev": {
--      "dompdf/dompdf": "dev-master"
--    },
+     "require-dev": { 
+         "dompdf/dompdf": "dev-master"
+   },
     "autoload": {
         "psr-4": {
             "Danielfnz\\DomPDF\\": "src"
