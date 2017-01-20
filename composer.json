@@ -1,5 +1,5 @@
 {
-    "name": "barryvdh/laravel-dompdf",
+    "name": "danielfnz/laravel-dompdf",
     "description": "A DOMPDF Wrapper for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf"],
@@ -19,7 +19,7 @@
 
     "autoload": {
         "psr-4": {
-            "Barryvdh\\DomPDF\\": "src"
+            "Danielfnz\\DomPDF\\": "src"
         }
     },
     "extra": {
